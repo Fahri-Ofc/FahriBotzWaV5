@@ -26,7 +26,6 @@
 
 [`Click Here`](https://github.com/BOTZ4YOU/FahriBotzWaV5/blob/master/LORD©HelgaIlham.json#L1)
 
-[`Click Here`](https://github.com/BOTZ4YOU/FahriBotzWaV5/blob/master/©Fahri 𝐁𝐨𝐭𝐳.json#L1)
 
 ## `SETTING`
 
@@ -42,7 +41,91 @@ Off in web nya
 
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+</p> ## `SETTING`
+31
+
+32
+- Owner number [Here](https://github.com/BOTZ4YOU/FahriBotzWaV5/blob/master/setting.json#L1)
+33
+- Owner name [Here](https://github.com/BOTZ4YOU/FahriBotzWaV5/blob/master/setting.json#L1)
+34
+- Botname [Here](https://github.com/BOTZ4YOU/FahriBotzWaV5/blob/master/setting.json#L1)
+35
+
+36
+## `CHANGE DYNO`
+37
+
+38
+Off in web nya
+39
+
+40
+----------
+41
+
+42
+<p align="center">
+43
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+44
 </p>
+45
+
+46
+## ```HOW TO DEPLOY```
+47
+
+48
+[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+49
+
+50
+----------
+51
+
+52
+<p align="center">
+53
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+54
+</p>
+55
+
+56
+
+57
+## ```COFFEE```
+58
+
+59
+- [`SAWERIA`](https://saweria.co/FahriBotz)
+60
+
+61
+## ```GROUP SUPPORT```
+62
+
+63
+- [`FahriBotz (Offcial Gc)`](https://chat.whatsapp.com/BeJH7mw5pM5H8siiYyuqaO)
+64
+
+65
+## `THANKS TO`
+66
+
+67
+- Allah SWT.
+68
+- My parents
+69
+- All Friends
+70
+- All Contributors
+71
+- All Creator Bot
+72
+
 
 ## ```HOW TO DEPLOY```
 
